@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  s3-encryption-proxy:
+    - created: 2026-08-03T16:00:00.000000000-00:00
+      description: A Helm chart for S3 Encryption Proxy - transparent S3 encryption/decryption proxy
+      digest: 10010031c2adee3d61f78ca25ac290b9861ac3c1957784341bdc304b65bcdd95
+      home: https://s3ep.com
+      name: S3 Encryption Proxy
+      sources:
+      - https://github.com/guided-traffic/s3-encryption-proxy
+      urls:
+      - https://github.com/guided-traffic/s3-encryption-proxy/releases/download/v3.8.54/s3-encryption-proxy-helm-3.5.0.tgz
+      version: 0.1.0
+generated: 2026-08-03T16:00:00.000000000-00:00 
